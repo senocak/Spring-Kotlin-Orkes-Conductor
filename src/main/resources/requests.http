@@ -1,0 +1,7 @@
+GET http://localhost:8081/api/v1/helloworld/tcasenocak
+
+###
+GET http://localhost:8081/api/v1/movie/Show/movieId1
+
+###
+GET http://localhost:8081/api/v1/movie/Movie/movieId1
